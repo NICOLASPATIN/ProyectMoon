@@ -1,4 +1,4 @@
-----------------------------------------------------  [ P r o y e c t      M o o n] ---------------------------------------------------
+-----------------------------------------------------  [ P r o y e c t      M o o n] ----------------------------------------------------
 
 Proyect Moon es un juego desarrollado por Nicolás Rueda que busca generar una experiencia unica en los simuladores de conducción.
 Tiene como características que para jugarlo se necesita un dispositivo de la serie Oculus / Quest y un volante de dirección que tenga pedales incluidos.
