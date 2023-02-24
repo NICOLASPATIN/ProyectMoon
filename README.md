@@ -4,7 +4,7 @@ Proyect Moon es un juego desarrollado por Nicolás Rueda que busca generar una e
 Tiene como características que para jugarlo se necesita un dispositivo de la serie Oculus / Quest y un volante de dirección que tenga pedales incluidos.
 
 PROPOSITO: El juego está diseñado en niveles fáciles por dos razones:
-La primera es para mostrarle al público en general el poder que tiene la realidad virtual para crear nuevas experiencias y así el juego se convierta en una herramienta de aprendizaje. 
+La primera es para mostrarle al público en general el poder que tiene la realidad virtual para crear nuevas experiencias y así el juego se convierta en una herramienta de aprendizaje.
 La segunda razón es precisamente, que estudiantes del colegio sean motivados a usar la tecnología y aprender de ella. Además, este juego podría generarles un divertido acercamiento a la experiencia de conducir.
 
 ---------------------------------------------------------- N E C E S A R I O ----------------------------------------------------------
