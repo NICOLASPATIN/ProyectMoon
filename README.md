@@ -24,8 +24,9 @@ Música del juego:
 - Drift Vibe por Alex-Production (No copyright sound)
 - Drive por Alex-Production (No copyright sound)
 
+-------------------------------------------------------------- J U G A R --------------------------------------------------------------
+
+Para jugar descarga los archivos en uan carpeta y ejecuta el .exe:
+https://uniandes-my.sharepoint.com/:u:/r/personal/ne_rueda_uniandes_edu_co/Documents/Datos%20adjuntos/PLAY_MoonRacers.zip?csf=1&web=1&e=EIaCYo
 
 © Todos los derechos del juego están reservados. 
-
-
-https://uniandes-my.sharepoint.com/:u:/r/personal/ne_rueda_uniandes_edu_co/Documents/Datos%20adjuntos/PLAY_MoonRacers.zip?csf=1&web=1&e=gnuC1k
