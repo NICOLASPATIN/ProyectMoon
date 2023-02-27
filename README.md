@@ -1,6 +1,6 @@
-----------------------------------------------------  [ P r o y e c t      M o o n] ----------------------------------------------------
+---------------------------------------------------  [ M o o n  R a c e r s] ---------------------------------------------------
 
-Proyect Moon es un juego desarrollado por Nicolás Rueda que busca generar una experiencia unica en los simuladores de conducción.
+Moon Racers es un juego desarrollado por Nicolás Rueda que busca generar una experiencia unica en los simuladores de conducción.
 Tiene como características que para jugarlo se necesita un dispositivo de la serie Oculus / Quest y un volante de dirección que tenga pedales incluidos.
 
 PROPOSITO: El juego está diseñado en niveles fáciles por dos razones:
