@@ -7,7 +7,7 @@ PROPOSITO: El juego está diseñado en niveles fáciles por dos razones:
 La primera es para mostrarle al público en general el poder que tiene la realidad virtual para crear nuevas experiencias y así el juego se convierta en una herramienta de aprendizaje.
 La segunda razón es precisamente, que estudiantes del colegio sean motivados a usar la tecnología y aprender de ella. Además, este juego podría generarles un divertido acercamiento a la experiencia de conducir.
 
-------------------------------------------------------- N E C E S A R I O -------------------------------------------------------
+------------------------------------------------------ N E C E S A R I O -------------------------------------------------------
 
 Necesario para jugar:
 - Oculus (optimizado para RIFT)
