@@ -24,9 +24,10 @@ Música del juego:
 - Drift Vibe por Alex-Production (No copyright sound)
 - Drive por Alex-Production (No copyright sound)
 
+
 ----------------------------------------------------------- J U G A R -----------------------------------------------------------
 
 Para jugar descarga los archivos en una carpeta y ejecuta el exe:
 https://uniandes-my.sharepoint.com/:u:/g/personal/ne_rueda_uniandes_edu_co/EUgA54krHi5It5GefLuSzpcBl5AHIO4XXIec7jJLWOYpvQ?e=JjE3AA
 
-© Todos los derechos del juego están reservados. 
+© Todos los derechos del juego están reservados.
