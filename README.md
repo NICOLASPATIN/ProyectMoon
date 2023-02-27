@@ -27,6 +27,6 @@ Música del juego:
 -------------------------------------------------------------- J U G A R --------------------------------------------------------------
 
 Para jugar descarga los archivos en una carpeta y ejecuta el exe:
-https://uniandes-my.sharepoint.com/:u:/r/personal/ne_rueda_uniandes_edu_co/Documents/Datos%20adjuntos/PLAY_MoonRacers.zip?csf=1&web=1&e=EIaCYo
+https://uniandes-my.sharepoint.com/:u:/g/personal/ne_rueda_uniandes_edu_co/EUgA54krHi5It5GefLuSzpcBl5AHIO4XXIec7jJLWOYpvQ?e=JjE3AA
 
 © Todos los derechos del juego están reservados. 
